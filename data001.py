@@ -1,5 +1,4 @@
 contacts = [
-    {'nama': 'ADE ZASKIA DAHLAN', 'email': 'ade.zaskia.dahlan02@kemenimipas.go.id'},
     {'nama': 'ADEFITRI', 'email': 'adefitri94@kemenimipas.go.id'},
     {'nama': 'ADEFRIED KENDRA', 'email': 'adefried.kendra03@kemenimipas.go.id'},
     {'nama': 'ADEGUTAMA ARRACHMAN', 'email': 'adegutama.arrachman90@kemenimipas.go.id'},
